@@ -1,5 +1,5 @@
 ### Our example E-Commerce to be tested with Cypress
-e-cypress.github.io/cypress
+### https://e-cypress.github.io/cypress
 
 
 #### Powered by E-Quipe®   
